@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception  {
         Scanner ab = new Scanner(System.in);
-
+      //Abdias Natanael Lopez Rocha Carnet: 20241354-U
         int num1 = 0;
         int num2 = 0;
         int num3 = 0;
